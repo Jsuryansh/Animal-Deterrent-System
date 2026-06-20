@@ -1,0 +1,22 @@
+AI-Animal-Tracking-System/
+│
+├── README.md
+│
+├── android/
+│   ├── MainActivity.kt
+│   ├── TrackingManager.kt
+│   ├── ObjectDetectorHelper.kt
+│   ├── UsbSerialManager.kt
+│
+├── arduino/
+│   └── AnimalTracker.ino
+│
+├── docs/
+│   ├── hardware.md
+│   ├── model.md
+│   └── future_work.md
+│
+├── images/
+│   ├── prototype.jpg
+│   ├── wiring.jpg
+│   ├── app_screen.jpg
